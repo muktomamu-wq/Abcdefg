@@ -1,0 +1,25 @@
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+      🚀 DRX MASTER ATTACK SPECIFICATIONS
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+🛡️ SYSTEM NAME : DRX 4.3 HYBRID ATTACK
+🎯 TARGETS     : BGMI / FREE FIRE SERVERS
+
+[TECHNICAL SPECS]
+- Methodology : Layer 4 (UDP) + Layer 7 (HTTP) Hybrid
+- Binary Name : bgmi (Compiled from attack.c)
+- Threading   : Auto-Burst (3000 - 5000 Threads)
+- Lag Power   : 699ms+ Persistent Lag
+
+[SECURITY PROTOCOLS]
+- Anti-Tamper : Active (Locking to @DRX_POWER)
+- Gateway     : Remote Update URL System
+- Cooldown    : 80 Seconds (Server Safety)
+- Capacity    : Max 5 Slots Simultaneous
+
+[LOGGING]
+- All attack logs are recorded with IP, Port, and Duration.
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+       POWERED BY @DRX_POWER SECURITY
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
